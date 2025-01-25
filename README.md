@@ -48,7 +48,7 @@ Severity: 1 Moderate | 2 Critical
 ✨  Done in 0.61s.
 ```
 
-## Vulnerabilities Check using Orca ShiftLeft CLI
+## Vulnerabilities Check using Orca Code Scanning
 ```sh
 $ orca-cli fs scan ./                                                                                                                        
   ____   ___   _____ ___      ____ ____ _____ __  __ ___   ____ ________  __
